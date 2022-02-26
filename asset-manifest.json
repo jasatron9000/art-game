@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/art-game/static/css/main.0f212332.css",
+    "main.js": "/art-game/static/js/main.642ff46b.js",
+    "static/js/787.fcacce80.chunk.js": "/art-game/static/js/787.fcacce80.chunk.js",
+    "index.html": "/art-game/index.html",
+    "main.0f212332.css.map": "/art-game/static/css/main.0f212332.css.map",
+    "main.642ff46b.js.map": "/art-game/static/js/main.642ff46b.js.map",
+    "787.fcacce80.chunk.js.map": "/art-game/static/js/787.fcacce80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f212332.css",
+    "static/js/main.642ff46b.js"
+  ]
+}
